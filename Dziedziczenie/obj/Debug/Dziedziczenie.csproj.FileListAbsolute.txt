@@ -1,0 +1,6 @@
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\mateu\Source\Repos\9kwietnia\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
